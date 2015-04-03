@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlockBreaker.net_ServerSigns:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlockBreaker_net_ServerSigns_jar</output-path>
+    <root id="archive" name="BlockBreaker.net_ServerSigns.jar">
+      <element id="module-output" name="BlockBreaker.net_ServerSigns" />
+    </root>
+  </artifact>
+</component>
