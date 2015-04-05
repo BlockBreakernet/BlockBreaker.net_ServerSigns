@@ -1,4 +1,12 @@
 name: BlockBreaker.net_ServerSigns
 version: 1.0
 author: lusu007
-main:  net.blockbreaker.serversigns.system.Main
+main:  net.blockbreaker.serversigns.StatusSigns
+
+commands:
+  statussigns:
+    usage: /statussign <ip> <port> <name>
+
+permissions:
+  server.set.sign:
+    default: true
